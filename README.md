@@ -8,8 +8,16 @@ An [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) [bot](http://en.wikip
 
 (mIRC is currently [Windows only](http://www.mirc.com/mac.html))
 
-1. Install the [mIRC](http://www.mirc.com/get.html) client
-2. Clone this repo into your mIRC directory (`$scriptdir`)
+#### Easy setup
+
+1. Clone this repo
+2. Open the portable mIRC executable included here
+  * All settings are pre-configured based on my own preferences
+
+#### Manual setup
+
+1. Install the latest [mIRC client](http://www.mirc.com/get.html)
+2. Clone this repo into your mIRC directory (the value of `$scriptdir`)
 3. Add the scripts to their respective tabs (aliases into Aliases, variables into Variables, etc.)
   * Open the mIRC Scripts Editor (alt+R)
   * Choose File > Load (ctrl+L)
