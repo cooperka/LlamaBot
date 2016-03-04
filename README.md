@@ -6,7 +6,7 @@ An [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) [bot](http://en.wikip
 
 ## Installation
 
-(Windows only)
+(mIRC is currently [Windows only](http://www.mirc.com/mac.html))
 
 1. Install the [mIRC](http://www.mirc.com/get.html) client
 2. Clone this repo into your mIRC directory (`$scriptdir`)
@@ -28,7 +28,7 @@ Currently, the earliest recorded date I have of my use of mIRC is a channel welc
 
 I noticed many clients on the channel I used were fully or partially automated, and I had no idea how that was possible or how it worked. I had a VERY limited knowledge of programming at the time, and decided to dive in deeper and figure out how it worked.
 
-Somehow I discovered mIRC, downloaded it, and started playing around with basic aliases. I learned how to do really simple things like say "Congratulations!" in fancy colors, and I found it so fascinating that I kept experimenting and making my scripts more and more complex. By the end of high school I had the thousands of lines of code found here, plus a dedicated IRC channel, a [help website](http://llamabot.webs.com/), and my very own [Wikipedia page](http://en.wikipedia.org/wiki/LlamaBot) about LlamaBot. I used IRC at the time the way most people use Facebook Messenger today: many of my friends were online too, and I spent a huge portion of my time chatting with them as LlamaBot.
+Somehow I happened upon mIRC, downloaded it, and started playing around with basic aliases. I learned how to do really simple things like say "Congratulations!" in fancy colors, and I found it so fascinating that I kept experimenting and making my scripts more and more complex. By the end of high school I had the thousands of lines of code found here, plus a dedicated IRC channel, a [help website](http://llamabot.webs.com/), and my very own [Wikipedia page](http://en.wikipedia.org/wiki/LlamaBot) about LlamaBot. According to channel logs, LlamaBot was invited to over 100 unique IRC channels during the time it ran. I used IRC at the time the way most people use Facebook Messenger today: many of my friends were online too, and I spent a huge portion of my time chatting with them as LlamaBot.
 
 This project was my first real taste of computer programming, and is absolutely the reason I ended up where I am today, as a full-time software developer.
 
@@ -36,7 +36,7 @@ This project was my first real taste of computer programming, and is absolutely 
 All the code here is in its (mostly) original form, and hasn't been modified since I wrote it in high school.*
 
 *Note 2:
-Unfortunately, the Wikipedia page was quickly deleted because LlamaBot was not open source at the time, and did not comply to various other Wikipedia standards of quality. Oops.*
+Unfortunately, the Wikipedia page was later deleted because LlamaBot was not open source at the time, and did not comply to various other Wikipedia standards of quality. Oops.*
 
 ## Contributing
 
