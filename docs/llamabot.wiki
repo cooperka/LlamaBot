@@ -1,0 +1,135 @@
+{{Otheruses4|the IRC bot|other uses|LlamaBot (disambiguation)}}
+{{Infobox_Software
+|name = '''LlamaBot'''
+|logo = [[Image:LlamaBot Logo.jpg|400px]]
+|developer = [[Oak-Reep Programming Team]]
+|latest_release_version = 1.41
+|latest_release_date = [[23 November]] [[2008]]
+|license = [[GNU General Public License|GNU GPL]]
+|language = [[English language|English]]
+|operating_system = [[Microsoft Windows]]
+|programming language = [[mIRC scripting language]]
+|genre = [[IRC bot]]
+|website = [http://www.freewebs.com/llamabot/ LlamaBot - The IRC Bot ]
+}}
+__FORCETOC__
+
+'''LlamaBot''' is an [[IRC bot]], started by the [[Oak-Reep Programming Team]] (ORPT) for the [[Swiftirc|SwiftIRC]] channel [irc://irc.SwiftIRC.net/Final-Eternity #Final-Eternity] (LlamaBot is currently located at channel [irc://irc.SwiftIRC.net/LlamaBot #LlamaBot]).  LlamaBot is written in the [[mIRC scripting language]], also known as '''mSL''', and features an [[interface (computer science)|interface]] for all [[Scripting language|scripts]] that allows the user to customize the bot in a number of ways, including channel options, [[Color scheme|color schemes]], and default [[User (computing)|usernames]].
+
+==History==
+
+LlamaBot's original purpose was to provide [[Personal computer game|gaming]] stats (especially for [[Role-playing game|RPG's]]) in the SwiftIRC channel #Final-Eternity. In [[January 2007]], channel #Final-Eternity was deserted when its [[Internet Relay Chat channel operator|operator]] abandoned the channel. LlamaBot was then moved to its own channel, named #LlamaBot<ref>[irc://irc.SwiftIRC.net/LlamaBot LlamaBot at Channel #LlamaBot]</ref>, where it is currently stationed and used.  Since the departure from channel #Final-Eternity, the ORPT has expanded and modified LlamaBot's commands and functions in order to reach a slightly larger variety of users.
+
+==Functions and Commands==
+
+LlamaBot has numerous different scripts available, and a number of operators on-call.  LlamaBot has [[Command (computing)|commands]] that range from date and time [[Function (computer science)|functions]], to [[ASCII]] (American Standard Code for Information Interchange) help, to basic IRC help when asked a question.<ref>[http://www.freewebs.com/llamabot/ LlamaBot Commands and Information]</ref>  The following is an incomplete list of LlamaBot's practical commands:
+[[Image:LlamaBot DM 2.jpg|thumb|right|240px|LlamaBot running a deathmatch game]]
+
+{| class="collapsible wikitable collapsed" style="clear: none; font-size: 90%; margin: 0 auto; padding: 0 auto;width: 56%;float: center"
+! align="center" colspan="2" | '''List of LlamaBot's Practical Commands'''
+|-
+| ''' !date'''
+| Provides the current date and time
+|-
+| ''' !part'''
+| Causes LlamaBot to exit the channel
+|-
+| ''' !users'''
+| States the number of users in the channel
+|-
+| ''' !topic'''
+| Sets the channel topic to a given name
+|-
+| ''' !calc'''
+| Calculate a given math equation
+|-
+| ''' !weather'''
+| States the current weather of a given place
+|-
+| ''' !ascii'''
+| States the [[ASCII]] number of a given [[Character (computing)|character]], or vice versa
+|-
+| ''' !morse'''
+| Translates given text into a [[Morse code]] readout, or vice versa
+|-
+| ''' !hex'''
+| Translates a given color into a [[List of colors|Hex]] version
+|-
+| ''' !roman'''
+| Converts given [[Roman numerals]] to numbers and vice versa
+|-
+| ''' !comment'''
+| Reports a given question, comment, or bug to the administrators
+|}
+LlamaBot also offers several fun and gaming functions, including [[deathmatch (gaming)|deathmatch]] games, [[Guessing game|guessing games]], and humorous quotes.  Recently, a [[2D computer graphics|2D]] [[Multiplayer game|two-player]] [[chess]] game was added in the form of a [[graphical user interface]].  The chess game is still in its [[Software release life cycle#Beta|beta version]] but updates are expected.  One LlamaBot user claimed that LlamaBot is one of few IRC bots that stresses humor and [[Video game|game-play]] along with practicality.  However, there are many other IRC bots, such as [[Eggdrop]] or [[Seeborg]], that also employ, or are entirely made for entertaining functions.  The following is an incomplete list of LlamaBot's fun and gaming commands:
+{| class="collapsible wikitable collapsed" style="clear: none; font-size: 90%; margin: 0 auto; padding: 0 auto;width: 56%;float: center"
+! align="center" colspan="2" | '''List of LlamaBot's Fun and Gaming Commands'''
+|-
+| ''' !DM'''
+| Starts a multiplayer deathmatch game
+|-
+| ''' !game'''
+| Starts a guessing game, in which the whole channel can participate
+|-
+| ''' !skill'''
+| States the [[RuneScape]] stats of the given username and skill
+|-
+| ''' !cmb'''
+| States the RuneScape combat level with given stats
+|-
+| ''' !price'''
+| States the RuneScape price of a given item
+|-
+| ''' !mu'''
+| States Forsaken-MU stats for a given username
+|-
+| ''' !law'''
+| States an odd but true [[Law of the United States|US law]]
+|-
+| ''' !quote'''
+| Repeats a humorous quote
+|}
+
+LlamaBot commands are given in the customary IRC manner (usually beginning with a '!' or '@')<ref>[http://seerofsouls.com/wiki/SeerOfSouls/IrcBot Common IRC Bot Commands]</ref>.  Most commands are followed by a number or [[String (computer science)|string]].  For example, to find the weather in [[Chicago, Illinois]], the user enters <code>!weather Chicago</code>.  LlamaBot will then connect to a weather website, read the [[HTML]] [[source code]], and report the up-to-date weather on the [[Online chat|chat]].  Therefore, [[Infobot|InfoBots]], such as LlamaBot, are useful as [[calculator|calculators]], for [[Exchange rate|currency conversions]], word definitions, and other things which you would otherwise have to open a [[Website|site]] for.  Here is how LlamaBot might respond to the command <code><nowiki>!weather Chicago</nowiki></code>:
+ <span style="color:blue"><+Username></span> !weather Chicago
+ <span style="color:red"><@LlamaBot></span> Weather for <span style="color:green">Chicago, Illinois</span>:
+ <span style="color:red"><@LlamaBot></span> Temperature: <span style="color:green">80.7 °F </span>(27.1 °C)
+ <span style="color:red"><@LlamaBot></span> Condition: <span style="color:green">Partly Cloudy</span>
+
+==Criticisms==
+Since leaving channel #Final-Eternity, users have complained of the slow speed at which LlamaBot is updated.  The beta version chess game, released on [[July 3|July 3rd]], has still not been updated to allow undoing moves and recognizing forced [[Draw (chess)|draws]].  The ORPT claimed updates to the chess game would be released shortly.  Additionally, LlamaBot does not offer [[Internet Protocol version 6|IPv6]] or [[Classless Inter-Domain Routing|classless inter-domain routing]] support, while other bots, such as [[Psotnic]], do.
+
+==Support==
+LlamaBot is hosted and maintained in the [[Swiftirc|SwiftIRC]] channel #LlamaBot by the Oak-Reep Programming Team.  The complete list of commands can be found at the [http://www.freewebs.com/llamabot/ LlamaBot home page].  It is to be noted that the name 'LlamaBot' was also used as the nicknames of the [[Eggdrop]] bot [[Software versioning|versions]] 1.6.16 through 1.6.18, but the two are not related.<ref>[http://uptime.eggheads.org/?botnick=LlamaBot LlamaBot Eggdrop Versions]</ref>
+
+
+==See also==
+{{col-begin}}
+{{col-3}}
+* [[Swiftirc|SwiftIRC]]
+* [[IRC bot]]
+* [[template:IRC bots|List of IRC bots]]
+{{col-3}}
+* [[Internet Relay Chat]]
+* [[mIRC scripting language]]
+* [[Wikipedia:IRC channels|Wikipedia IRC channels]]
+{{col-3}}
+{{col-end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons|LlamaBot}}
+* [http://gogloom.com/Swiftirc/ SwiftIRC Stats and Channels]
+* [http://www.mirc.com/help.html mIRC Help Page]
+* [http://www.swiftirc.net/index.php?page=support SwiftIRC Support]
+* [http://wiki.swiftirc.net/index.php/Main_Page SwiftIRC Main Page Wiki]
+{{IRC bots}}
+
+[[Category:Internet Relay Chat bots, bouncers and proxies]]
+[[Category:Internet Relay Chat]]
+[[Category:Bots]]
+[[Category:Internet Relay Chat client scripts]]
+[[Category:Windows Internet Relay Chat clients]]
+[[Category:Internet Relay Chat clients]]

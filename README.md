@@ -32,9 +32,9 @@ If you're not familiar, you should read some guides on IRC and mIRC for more inf
 
 ## History
 
-Currently, the earliest recorded date I have of my use of mIRC is a channel welcome message set on 2008-02-24, but I know that wasn't the first time I ever logged on. I started messing around with IRC sometime in 2006 or 2007 as a means of communication while playing [RuneScape](http://en.wikipedia.org/wiki/RuneScape) (yes, I was one of THOSE kids!).
+The earliest recorded date I have of my own use of mIRC is a channel welcome message set on 2008-02-24, but that wasn't the first time I ever logged on. I started using IRC sometime in 2006 or 2007 as a means of communication while playing [RuneScape](http://en.wikipedia.org/wiki/RuneScape) (yes, I was one of THOSE kids!).
 
-I noticed many clients on the channel I used were fully or partially automated, and I had no idea how that was possible or how it worked. I had a VERY limited knowledge of programming at the time, and decided to dive in deeper and figure out how it worked.
+I noticed that many clients on the channels I frequented were fully or partially automated, and I had no idea how that was possible or how it worked. I had a VERY limited knowledge of programming at the time, and decided to dive in deeper and figure out how it worked.
 
 Somehow I happened upon mIRC, downloaded it, and started playing around with basic aliases. I learned how to do really simple things like say "Congratulations!" in fancy colors, and I found it so fascinating that I kept experimenting and making my scripts more and more complex. By the end of high school I had the thousands of lines of code found here, plus a dedicated IRC channel, a [help website](http://llamabot.webs.com/), and my very own [Wikipedia page](http://en.wikipedia.org/wiki/LlamaBot) about LlamaBot. According to channel logs, LlamaBot was invited to over 100 unique IRC channels during the time it ran. I used IRC at the time the way most people use Facebook Messenger today: many of my friends were online too, and I spent a huge portion of my time chatting with them as LlamaBot.
 
