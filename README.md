@@ -44,7 +44,11 @@ This project was my first real taste of computer programming, and is absolutely 
 All the code here is in its (mostly) original form, and hasn't been modified since I wrote it in high school.*
 
 *Note 2:
-Unfortunately, the Wikipedia page was later deleted because LlamaBot was not open source at the time, and did not comply to various other Wikipedia standards of quality. Oops.*
+Unfortunately, the Wikipedia page was later deleted because LlamaBot was not open source at the time, and did not comply with various other Wikipedia standards of quality. Oops.*
+
+## Files of interest
+
+The files here are massive and not well organized... My game of two-player DeathMatch (based on Runescape) is what I was most proud of, and the related code can be found [here](mIRC%20portable/scripts/remote/dm.mrc). I also wrote some fairly extensive scripts that do rudimentary natural language processing to offer IRC help, found [here](mIRC%20portable/scripts/remote/help.mrc) and [here](mIRC%20portable/scripts/aliases/help.mrc). Other than that, you can look at the filenames to get a general idea of what sorts of scripts are in each file.
 
 ## Contributing
 
