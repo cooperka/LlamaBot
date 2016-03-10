@@ -1,0 +1,1 @@
+The files here come from the [original LlamaBot help site](http://llamabot.webs.com). They're essentially just plain-text backups. The site served as an API for the bot, as well as a small blog with various other content.

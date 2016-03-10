@@ -1,0 +1,42 @@
+*Originally at http://llamabot.webs.com/soldat.htm*
+
+## IRC SOLDAT COMMANDS
+
+The following commands only work in #LlamaBot, and you must be at least a Half-Operator (orange colored with a % sign) to use them.  Most commands have a shorter version you can use; the whole command will be spelled out, with the necessary letters in bold.
+
+If you do not already have them, extra maps that I have made are available at
+http://llamabot.webs.com/maps.rar and can be unpacked using WinRAR, which you can download from
+http://download.cnet.com/WinRAR/3000-2250_4-10007677.html?tag=mncol
+
+!host (Pass) (hosts the ~GPN~ Soldat server, with the specified password.  If the password is "none", it will remove the password completely.  If no password is specified, it will use the default)
+!rehost (Pass) (shuts down the sever, then starts it again (see above for password information))
+!unhost (shuts down the server)
+
+!setbots Number (sets the number of randomly added bots - all bots go on the alpha team if there are teams - server must be rehosted for changes to take effect)
+!addmaps Map1 (Map2 Map3...) (adds 1 or more maps to the game - rehost required)
+!setmap Map/Type (removes all current maps and adds either that map or that set of maps - for example, !sm ctf will add the good CTF maps - rehost required)
+!clearmaps (clears the map list - rehost required)
+!unbanall (clears the ban list - rehost required)
+!setmaxping Number (sets the maximum ping a player can have to join (100-200 is good) - rehost required)
+
+!gametype Type (sets what kind of game it is - games include Default, CTF, Rambo, Saws, etc. - rehost required)
+!setmaxgrenades Number (sets the maximum grendades - rehost required)
+!setpowerups Flamegod Predator Berzerker BP-Vest Clusters (use on/off for each, turns powerups on/off - rehost required)
+!setfrequency Number (sets the powerup frequency - rehost required)
+!(add|remove)weapon WeaponName (...) (adds or removes that/those weapon(s) - rehost required)
+
+[!@]soldatgamestats (provides information about the current ~GPN~ game)
+[!@]soldatstats (Name) (provides information about that player, or yourself if no name is specified)
+
+!soldatcommands (tells you all of the commands you can use in-game)
+[!@]soldatwebsite (gives a link to this site)
+
+## IN-GAME SOLDAT COMMANDS
+
+Any player can use the following commands while in the ~GPN~ Soldat server by simply saying them out loud during the game.
+
+!pause - pauses the game
+!unpause - unpauses the game
+!restart - restarts the game
+!next - starts a new game on the next map
+!alpha / !bravo / !spec - sets you to the specified team (spec means spectator)
