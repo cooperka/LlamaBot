@@ -21,7 +21,7 @@ http://download.cnet.com/WinRAR/3000-2250_4-10007677.html?tag=mncol
 
 !gametype Type (sets what kind of game it is - games include Default, CTF, Rambo, Saws, etc. - rehost required)
 !setmaxgrenades Number (sets the maximum grendades - rehost required)
-!setpowerups Flamegod Predator Berzerker BP-Vest Clusters (use on/off for each, turns powerups on/off - rehost required)
+!setpowerups Flamegod Predator Berzerker BP-Vest Clusters (use on/off for each, turns powerups on/off - rehost required)
 !setfrequency Number (sets the powerup frequency - rehost required)
 !(add|remove)weapon WeaponName (...) (adds or removes that/those weapon(s) - rehost required)
 
