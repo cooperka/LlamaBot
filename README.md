@@ -10,14 +10,14 @@ An [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) [bot](http://en.wikip
 
 #### Easy setup
 
-1. Clone this repo
-2. Open the portable mIRC executable included here
-  * All settings are pre-configured based on my own preferences
+1. Clone this repo (or [download ZIP](https://github.com/cooperka/LlamaBot/archive/master.zip))
+2. Run the executable included here under [`mIRC portable`](https://github.com/cooperka/LlamaBot/tree/master/mIRC%20portable)
+  * All settings are pre-configured based on my own preferences, but you can always customize
 
 #### Manual setup
 
 1. Install the latest [mIRC client](http://www.mirc.com/get.html)
-2. Clone this repo into your mIRC directory (the value of `$scriptdir`)
+2. Clone the contents of [`mIRC portable`](https://github.com/cooperka/LlamaBot/tree/master/mIRC%20portable) into your root mIRC directory (found using `/echo $scriptdir`)
 3. Add the scripts to their respective tabs (aliases into Aliases, variables into Variables, etc.)
   * Open the mIRC Scripts Editor (alt+R)
   * Choose File > Load (ctrl+L)
