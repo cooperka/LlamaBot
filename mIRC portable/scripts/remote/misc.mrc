@@ -196,9 +196,9 @@ on *:START:{
 
 ;autoshutdown 23:55
 on *:CONNECT:{
-  afk | id | beepoff | beepsoff | mode $me -f+p
-  .timerXGlitch 1 10 CheckXGlitch
-  .timercheckidd 1 120 CheckIDD
+  ;afk | id | beepoff | beepsoff | mode $me -f+p
+  ;.timerXGlitch 1 10 CheckXGlitch
+  ;.timercheckidd 1 120 CheckIDD
   ;.timerCheckMySpace 0 60 getText
 }
 alias CheckXGlitch { if (($me !isop #LlamaBot) && (afk isin $me)) { hop #LlamaBot } }

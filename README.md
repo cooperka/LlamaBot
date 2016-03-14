@@ -17,7 +17,7 @@ An [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) [bot](http://en.wikip
 #### Manual setup
 
 1. Install the latest [mIRC client](http://www.mirc.com/get.html)
-2. Clone the contents of [`mIRC portable`](https://github.com/cooperka/LlamaBot/tree/master/mIRC%20portable) into your root mIRC directory (found using `/echo $scriptdir`)
+2. Clone the contents of [`mIRC portable`](https://github.com/cooperka/LlamaBot/tree/master/mIRC%20portable) into your root mIRC directory (found using `//echo $scriptdir`)
 3. Add the scripts to their respective tabs (aliases into Aliases, variables into Variables, etc.)
   * Open the mIRC Scripts Editor (alt+R)
   * Choose File > Load (ctrl+L)
