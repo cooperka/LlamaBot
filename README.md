@@ -38,6 +38,8 @@ I noticed that many clients on the channels I frequented were fully or partially
 
 Somehow I happened upon mIRC, downloaded it, and started playing around with basic aliases. I learned how to do really simple things like say "Congratulations!" in fancy colors, and I found it so fascinating that I kept experimenting and making my scripts more and more complex. By the end of high school I had the thousands of lines of code found here, plus a dedicated IRC channel, a [help website](http://llamabot.webs.com/), and my very own [Wikipedia page](http://en.wikipedia.org/wiki/LlamaBot) about LlamaBot. According to channel logs, LlamaBot was invited to over 100 unique IRC channels during the time it ran. I used IRC at the time the way most people use Facebook Messenger today: many of my friends were online too, and I spent a huge portion of my time chatting with them as LlamaBot.
 
+![Screenshot of LlamaBot's DeathMatch game](/docs/LlamaBot_DM_2.jpg "Screenshot of LlamaBot's DeathMatch game")
+
 This project was my first real taste of computer programming, and is absolutely the reason I ended up where I am today, as a full-time software developer.
 
 *Note 1:
